@@ -1,4 +1,5 @@
-﻿// GLOBAL GAME FRAMEWORK VARIABLES
+﻿///<reference path="_reference.ts"/> 
+// GLOBAL GAME FRAMEWORK VARIABLES
 var canvas: HTMLElement;
 var stage: createjs.Stage;
 var stats: Stats;
