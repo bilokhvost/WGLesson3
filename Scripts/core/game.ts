@@ -1,12 +1,4 @@
-﻿/// <reference path="../config/config.ts" />
-
-/// <reference path="../objects/label.ts" />
-/// <reference path="../objects/button.ts" />
-
-/// <reference path="../states/menu.ts" />
-
-
-// GLOBAL GAME FRAMEWORK VARIABLES
+﻿// GLOBAL GAME FRAMEWORK VARIABLES
 var canvas: HTMLElement;
 var stage: createjs.Stage;
 var stats: Stats;
